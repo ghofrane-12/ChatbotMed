@@ -1,0 +1,51 @@
+# --- Core scientific stack ---
+numpy
+scipy
+pandas
+
+# --- PyTorch ---
+torch
+torchvision
+torchaudio
+
+# --- NLP / Transformers ---
+transformers
+sentence-transformers
+
+# --- LangChain ecosystem ---
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+
+# --- Vector Store ---
+chromadb
+
+# --- App framework ---
+streamlit
+
+# --- Hugging Face utils ---
+huggingface-hub
+
+# --- Tokenizers ---
+tokenizers
+
+# --- Environment management ---
+python-dotenv
+
+# --- Scikit-learn (anomaly detector, TF-IDF, SVM) ---
+scikit-learn
+joblib
+
+# --- Text processing ---
+regex
+
+# --- Optional: for multilingual support ---
+nltk
+spacy
+
+# --- HTTP requests (Gemini API calls) ---
+requests
+
+# --- VSCode / Dev utils (optional) ---
+ipython
